@@ -27,10 +27,10 @@ function getRow(month, day, weekday, tong_saharlik, peshin, asr, shom_iftor, huf
             <tr class="row">
             <td class="data" rowspan="2">${day}</td>
             <td class="data" rowspan="2">${weekday}</td>
-                <td class="time-string">Bomdod (saharlik)</td>
+                <td class="time-string">Bomdod</td>
                 <td class="time-string">Peshin</td>
                 <td class="time-string">Asr</td>
-                <td class="time-string">Shom (Iftorlik)</td>
+                <td class="time-string">Shom</td>
                 <td class="time-string">Xufton</td>
                 <tr class="row" style="background-color: #0f9602;">                
                 <td class="time">${tong_saharlik}</td>
